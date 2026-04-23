@@ -42,6 +42,7 @@ git clone https://github.com/Gaganshekar/aadhaar-registration.git
 
 ## Project Structure
 aadhaar-registration/
+
 ├── index.html
 ├── style.css
 ├── app.py
