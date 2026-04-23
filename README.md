@@ -7,9 +7,13 @@ A simple Aadhaar registration form built using HTML and CSS.
 - Clean and simple user interface
 - Responsive design using pure CSS
 
-## Tech Stack
+## Tech Stack / Skills Used
 - HTML5
 - CSS3
+
+## Screenshots
+<!-- Add your screenshot here after uploading to the repo -->
+![Aadhaar Form](screenshot.png)
 
 ## How to Run
 1. Clone the repository
@@ -19,7 +23,19 @@ A simple Aadhaar registration form built using HTML and CSS.
 ## Project Structure
 aadhaar-registration/
 ├── index.html
-└── style.css
+├── style.css
+└── screenshot.png
+
+## What I Learned
+- Building forms using HTML
+- Styling forms with CSS
+- Version control using Git and GitHub
+
+## Future Improvements
+- Add JavaScript form validation
+- Make it fully responsive for mobile
+- Connect to a backend for data storage
 
 ## Author
-Gaganshekar
+**Gaganshekar**
+- GitHub: [@Gaganshekar](https://github.com/Gaganshekar)
